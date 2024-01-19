@@ -37,6 +37,4 @@ This repository contains the implementation of a distance measurement system usi
 3. Build and upload the code to the ATmega32 microcontroller.
 4. Monitor the distance measurements displayed on the connected 4x16 LCD.
 
-Feel free to refer to the provided documentation and source code for a detailed understanding of the implementation and hardware connections.
-
 Note: Refer to the "HC-SR04 Ultrasonic MT Student Tutorial" PDF file for additional information on interfacing with the HC-SR04 sensor.
